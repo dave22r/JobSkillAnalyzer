@@ -22,7 +22,7 @@ I built this to decode real-world job requirements and map them to actionable le
 - **Selenium**: Automated scraping of Coursera resources.
 - **pandas**: Handles ~200 MB of preprocessed job data with ease.
 
-## Installation & Usage
+## Installation
 1. Clone the repository:
    ```sh
    git clone <https://github.com/dave22r/JobSkillAnalyzer>
@@ -38,6 +38,13 @@ I built this to decode real-world job requirements and map them to actionable le
    ```sh
    python main.py
    ```
+## Usage
+A single small dataset of job postings in canada "linkedin_canada.csv" can be found in this repository and can be used for testing purposes.
+
+The original project was done using ~200 mb of CSV files which can't be uploaded but are linked here:
+https://www.kaggle.com/datasets/arshkon/linkedin-job-postings
+https://www.kaggle.com/datasets/adampq/linkedin-jobs-machine-learning-data-set
+
 
 ## Features
 
