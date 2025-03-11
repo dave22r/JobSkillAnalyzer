@@ -25,7 +25,7 @@ I built this to decode real-world job requirements and map them to actionable le
 ## Installation & Usage
 1. Clone the repository:
    ```sh
-   git clone <your-repo-url>
+   git clone <https://github.com/dave22r/JobSkillAnalyzer>
    cd job-skill-analyzer
 
 ## Setup
