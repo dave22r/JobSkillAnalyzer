@@ -1,10 +1,12 @@
 import pandas as pd
 
+
+## The other linked datasets can be downloaded and loaded here.
 DATASETS = [
-        '/Users/dave/Desktop/datasets linkedin/job_postings.csv',
-        '/Users/dave/Desktop/datasets linkedin/linkedin_canada.csv',
-        '/Users/dave/Desktop/datasets linkedin/LinkedInJobs_MLDataset.csv',
-        '/Users/dave/Desktop/postings.csv'
+        
+        'linkedin_canada.csv'
+        
+        
     ]
 
 def load_datasets():
