@@ -1,0 +1,9 @@
+tkinter
+pandas
+spacy
+fuzzywuzzy
+sentence-transformers
+scikit-learn
+selenium
+webdriver-manager
+matplotlib
