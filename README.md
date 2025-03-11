@@ -39,11 +39,15 @@ I built this to decode real-world job requirements and map them to actionable le
    python main.py
    ```
 ## Usage
-A single small dataset of job postings in canada "linkedin_canada.csv" can be found in this repository and can be used for testing purposes.
+- A single small dataset of job postings in canada "linkedin_canada.csv" can be found in this repository and can be used for testing purposes.
 
-The original project was done using ~200 mb of CSV files which can't be uploaded but are linked here:
-https://www.kaggle.com/datasets/arshkon/linkedin-job-postings
-https://www.kaggle.com/datasets/adampq/linkedin-jobs-machine-learning-data-set
+
+- The original project was done using ~200 mb of CSV files which can't be uploaded but are linked here:
+- https://www.kaggle.com/datasets/arshkon/linkedin-job-postings
+
+- https://www.kaggle.com/datasets/adampq/linkedin-jobs-machine-learning-data-set
+
+- Once the datasets are downloaded, their file path can be mentioned in the DATASETS variable in "dataset_loader.py"
 
 
 ## Features
