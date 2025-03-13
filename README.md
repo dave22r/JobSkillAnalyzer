@@ -47,7 +47,7 @@ I built this to decode real-world job requirements and map them to actionable le
 
 - https://www.kaggle.com/datasets/adampq/linkedin-jobs-machine-learning-data-set
 
-- Once the datasets are downloaded, their file path can be mentioned in the DATASETS variable in "dataset_loader.py"
+- Once the datasets are downloaded, their file path can be mentioned in the ```DATASETS``` variable in ```dataset_loader.py```
 
 
 ## Features
