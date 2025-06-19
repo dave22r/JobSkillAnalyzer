@@ -13,6 +13,8 @@ This project turns raw job data into career gold:
 ## Motivation
 I built this to decode real-world job requirements and map them to actionable learning paths, it is built off of legally sourced Kaggle datasets instead of scraping platforms like LinkedIn. It’s about cutting through the noise of job boards with tech that delivers.
 
+## Demo
+https://youtu.be/oWTrk76b-js
 
 
 ## Technology Stack
